@@ -8,6 +8,8 @@ A simple yet powerful starting point for writing [Express](http://expressjs.com)
 * Detect settings for different environments. See `./config/envs.coffee` and `./config/setup.coffee`.
 * [Mongoose](http://mongoosejs.com) models to interface with MongoDB database.
 * [Express Validator](https://github.com/ctavan/express-validator) middleware for validations. Bundled middleware adds `req.validate()` for [mapped errors](https://github.com/ctavan/express-validator#validation-errors).
+* Twitter Bootstrap 3
+* JQuery
 
 ## Usage
 
