@@ -1,4 +1,4 @@
-# Exress CoffeeScript Website Seed
+# Express CoffeeScript Website Seed
 
 A simple yet powerful starting point for writing [Express](http://expressjs.com) websites with [CoffeeScript](http://coffeescript.org).
 
